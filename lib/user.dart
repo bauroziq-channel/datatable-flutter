@@ -5,6 +5,6 @@ class User {
   User({this.id, this.name});
 
   factory User.fromJson(Map<String, dynamic> json) {
-    return User(id: json['id'], name: json['name']);
+    return User(id: int.parse(json['id']), name: json['name']);
   }
 }
