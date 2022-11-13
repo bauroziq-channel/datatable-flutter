@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57200735964",
+    "project_id": "tutorial-a2aca",
+    "storage_bucket": "tutorial-a2aca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57200735964:android:e5402fcc29147ccd55e619",
+        "android_client_info": {
+          "package_name": "com.example.youtube_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57200735964-sn3j2r60ahugpq7u44vcft1i7sk3rlo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youtube_tutorial",
+            "certificate_hash": "b77cb3398d223b105f612422b6d2a842d7c1dd3b"
+          }
+        },
+        {
+          "client_id": "57200735964-orbi3k6k8vm5oqbjs8o1bf8vitjp416r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF_C2VCyQtOiNNoR5Aj2ivOej8oSXH34w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57200735964-orbi3k6k8vm5oqbjs8o1bf8vitjp416r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
